@@ -12,6 +12,7 @@ Instead of relying on cloud servers for processing your sensitive financial data
 Massive shoutout and credit to FinVault — Financial Hub for the original design and conceptual inspiration for a unified financial dashboard.
 
 Built with WebLLM and Transformers.js.
+https://ssk567.github.io/FinVault/
 
 ## ✨ Key Features
 
