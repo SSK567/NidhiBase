@@ -39,7 +39,7 @@ Since this is a client-side only application, getting started is incredibly simp
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/NidhiBase.git](https://github.com/yourusername/NidhiBase.git)
+    git clone https://github.com/SSK567/NidhiBase.git
 
 
 Note: For the On-Device AI (WebLLM) to work, you must use a WebGPU-enabled browser (Chrome/Edge 113+ or Safari 18+).
