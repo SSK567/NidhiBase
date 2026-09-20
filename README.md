@@ -36,7 +36,7 @@ Since this is a client-side only application, getting started is incredibly simp
    git clone [https://github.com/yourusername/NidhiBase.git](https://github.com/yourusername/NidhiBase.git)
 
 
-
+Note: For the On-Device AI (WebLLM) to work, you must use a WebGPU-enabled browser (Chrome/Edge 113+ or Safari 18+).
 
    🔒 Security & Privacy Notice
 This application is designed for absolute privacy. The core ledger and financial data remain strictly within your browser's local storage and the local JSON vault you define. The AI model runs on your local GPU, meaning your financial queries are never sent to OpenAI, Google, or any third-party server.
