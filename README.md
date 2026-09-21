@@ -5,7 +5,11 @@ NidhiBase: A privacy-first, zero-dependency personal finance dashboard featuring
 # 💸 NidhiBase — Human-First Finance
 
 NidhiBase is a privacy-first, edge-computed personal finance strategist and portfolio tracker. It is built entirely as a **single-file web application** (HTML/CSS/JS) with zero external build dependencies, ensuring maximum portability and security. 
-*💡 **Inspiration:** This project is deeply inspired by **FinVault — Financial Hub**. While FinVault set a great benchmark for financial tracking, NidhiBase builds upon that vision by introducing strictly on-device, offline-first AI capabilities.*
+
+
+*💡 **Inspiration:** This project is deeply inspired by **FinVault — Financial Hub**. While FinVault set a great benchmark for financial tracking, NidhiBase builds upon that vision by introducing strictly on-device, offline-first AI capabilities.
+
+*
 Instead of relying on cloud servers for processing your sensitive financial data, NidhiBase leverages the power of modern browser APIs to run **Large Language Models (LLMs) and Speech-to-Text (STT) completely offline and on-device**.
 
 🙏 Acknowledgments
